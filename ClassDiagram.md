@@ -1,2 +1,2 @@
 # Class Diagram
-Class diagram is uneful for system design & object oriented analysis.
+Class diagram is useful for system design & object oriented analysis.
